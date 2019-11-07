@@ -19,3 +19,13 @@ A. Download files
 [wlku@matrix GSE105012] gunzip *.gz
 [wlku@matrix GSE105012] cd ..
 </pre>
+
+
+
+B. Demultiplexing and mapping single cell H3K4me3 data
+--------------------------------------
+
+1. 
+<pre>
+[wlku@matrix CRK] sh ./src/figure1_code/script_sicer_low_cell
+</pre>
