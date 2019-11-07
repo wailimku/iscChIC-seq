@@ -1,11 +1,10 @@
 A. Download files
 --------------------------------------
 
-1. Download the files from github and change the directory to CRK
+1. Download the files from github and change the directory to CRK. You need to login github, and download the testing123.git
 
 <pre>
-[wlku@matrix] git clone https://github.com/wailimku/scChIC-seq.git
-[wlku@matrix] mv scChIC-seq CRK
+[wlku@matrix] mv testing123 CRK
 [wlku@matrix] cd CRK
 [wlku@matrix CRK] ls
 [wlku@matrix CRK] AdvancedColormap.m  <b>data</b>  <b>Figures</b>  <b>GSE105012</b>  README.md  <b>src</b> violin.m  violinplot.m
