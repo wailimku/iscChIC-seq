@@ -29,3 +29,22 @@ B. Demultiplexing and mapping single cell H3K4me3 data
 <pre>
 [wlku@matrix CRK] sh ./src/figure1_code/script_sicer_low_cell
 </pre>
+
+
+C. Quality analysis and clustering for single cell H3K4me3 data
+--------------------------------------
+
+D. Demultiplexing and mapping single cell H3K27me3 data
+--------------------------------------
+
+E. Quality analysis and clustering for single cell H3K27me3 data
+--------------------------------------
+
+F. Matching clusters between single cell H3K4me3 and H3K27me3 data
+--------------------------------------
+
+G. Computation for spatial and density cell-to-cell variation
+--------------------------------------
+
+
+--------------------------------------
