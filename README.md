@@ -10,12 +10,12 @@ A. Download files
 [wlku@matrix CRK] AdvancedColormap.m  <b>data</b>  <b>Figures</b>  <b>GSE105012</b>  README.md  <b>src</b> violin.m  violinplot.m
 </pre>
 
-2. Download GSE105012_RAW.tar from GEO website and save it to the folder  <b>GSE105012</b>
+2. Download GSE139857_RAW.tar from GEO website and save it to the folder  <b>GSE139857</b>
 <pre>
-[wlku@matrix CRK] cd GSE105012
+[wlku@matrix CRK] cd GSE139857
 [wlku@matrix GSE105012] ls
-[wlku@matrix GSE105012] GSE105012_RAW.tar
-[wlku@matrix GSE105012] tar -xvf GSE105012_RAW.tar
+[wlku@matrix GSE105012] GSE139857_RAW.tar
+[wlku@matrix GSE105012] tar -xvf GSE139857_RAW.tar
 [wlku@matrix GSE105012] gunzip *.gz
 [wlku@matrix GSE105012] cd ..
 </pre>
