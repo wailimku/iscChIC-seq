@@ -7,7 +7,7 @@ A. Download files
 [wlku@matrix] mv testing123 CRK
 [wlku@matrix] cd CRK
 [wlku@matrix CRK] ls
-[wlku@matrix CRK] AdvancedColormap.m  <b>data</b>  <b>Figures</b>  <b>GSE105012</b>  README.md  <b>src</b> violin.m  violinplot.m
+[wlku@matrix CRK] AdvancedColormap.m  <b>data</b>  <b>Figures</b>  <b>GSE139857</b>  README.md  <b>src</b> violin.m  violinplot.m
 </pre>
 
 2. Download GSE139857_RAW.tar from GEO website and save it to the folder  <b>GSE139857</b>
