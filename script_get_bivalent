@@ -1,0 +1,1 @@
+bedtools intersect -a ./predata/combined_sicer_E100_peaks.sort.merge.txt -b ./predata/H3K4me3_peakname3_2.txt|awk '{if(($3-$2+1)>=100) print}'|sort -k1,1 -k2,2n>./predata/K4_K27_bivalent_domain.txt
